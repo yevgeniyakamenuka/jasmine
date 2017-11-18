@@ -1,0 +1,22 @@
+{
+  "name": "mytdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yevgeniyakamenuka/jasmine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yevgeniyakamenuka/jasmine/issues"
+  },
+  "homepage": "https://github.com/yevgeniyakamenuka/jasmine#readme",
+  "devDependencies": {
+    "jasmine": "^2.8.0"
+  }
+}
